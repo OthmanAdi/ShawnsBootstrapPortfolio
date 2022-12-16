@@ -1,0 +1,34 @@
+.body {
+    height: 100vh;
+}
+
+.MainPageWrapper {
+    /*height: 100vh;*/
+}
+
+.TodoListWrapper {
+    /*height: 100vh;*/
+}
+
+.MyFooter, .FooterContainer {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+    height: 10vh;
+    background: beige;
+}
+
+.SideNav{
+    width: 8vw;
+    height: 60vh;
+    background: linear-gradient(120deg, rgba(251, 44, 170, 0.68), #00badc,#00badc);
+    background-size: 400px 5000px;
+    position:  relative;
+    border: none;
+    border-radius: 5px;
+}
+
+.bb{
+    border: none;
+}
